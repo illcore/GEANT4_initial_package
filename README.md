@@ -1,2 +1,1 @@
-# GEANT4_initial_package
-GEANT4 initial package
+# An initial GEANT4 package
